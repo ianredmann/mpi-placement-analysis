@@ -12,16 +12,12 @@ The **Math Placement Index (MPI)** is used by the OBU Mathematics Department to 
 
 **MPI Formula:**
 
-\[
-\text{MPI} = \left( \frac{\text{ACT Math}}{36} + \frac{\text{High School GPA}}{4.0} \right) \times 50
-\]
+MPI = ((ACT Math / 36) + (High School GPA / 4.0)) × 50
 
 - If a student **does not have an ACT score**, they may take a **25-question placement exam**
 - The placement exam replaces the ACT score using the conversion:
 
-\[
-\text{ACT Equivalent} = \text{Placement Exam Score} + 10
-\]
+ACT Equivalent = Placement Exam Score + 10
 
 ---
 
